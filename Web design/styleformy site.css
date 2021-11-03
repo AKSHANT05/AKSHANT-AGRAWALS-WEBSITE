@@ -1,0 +1,183 @@
+
+
+body {
+ background-color: rgb(27, 18, 24);
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+  color: rgb(30, 6, 186);
+  font-size: 100px;
+  font-style: inherit;
+  font-weight: bolder;
+  padding: 115px;
+}
+
+
+
+
+.mepic {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+fieldset, .set {
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(27, 18, 24);
+}
+nav a{
+   
+    text-transform: uppercase;
+    padding: 0 40px;
+    text-decoration: none;
+    text-decoration-color: red;
+    font-size: 20px;
+    text-align: center;
+}
+fieldset{
+    height: 40px;
+}
+
+nav fieldset:hover{text-decoration-color: red; }
+
+    
+.me {
+  text-align: center;
+  color: rgb(214, 52, 52);
+  font-size: 70px;
+  border-color: rgb(236, 214, 115);
+  font-weight: 900;
+  
+}
+.myname{
+    font-style: italic;
+    
+}
+.mep{
+    font-size: 30px;
+     text-align: center;
+     color: rgba(235, 159, 19);
+}
+.my{
+    font-size: 70px;
+    color: rgb(36, 77, 3);
+    text-align: center;
+}
+.myp{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(122,186,196);
+}
+nav{
+    height: 60px;
+    width: 100%;
+    background-color: rgba(0,0,0, .6);
+    position: sticky;
+    top: 0;
+}
+.pic{
+    display: inline-block;
+    width: 49% ;
+    height: 500px;
+    color: rgb(196, 167, 122);
+    font-size: 20px;
+    text-align: center;
+}
+.maintag{
+    color: #81469e;
+    font-size: 70px;
+    text-align: center;
+}
+.pic1{
+ 
+  width: 45%;
+  padding: 10px;  
+  height: 500px;
+  float: left;
+}
+.pic3{
+    margin-left: 500px;
+    margin-right: 500px;
+    
+    float: left;
+
+}
+  
+
+
+
+
+
+.pic2{
+    float: left;
+    width: 49%;
+    padding: 10px;  
+    height: 500px;}
+.lear{
+    font-size: 30px;
+    color: rgb(235, 230, 136);
+    text-align: center;
+}
+
+.nor{
+    margin-left: 150px;
+    margin-right: 150px;
+    display: inline block;
+}
+.mya{
+    font-size: 70px;
+    color: #1a2aba;
+    text-align: center;
+}
+.myap{
+    font-size: 30px;
+    text-align: center;
+    color: #c7adba;
+}
+.some{
+    font-size: 70px;
+    color: #2a6621;
+    text-align: center;
+}
+.someh{
+    font-size: 30px;
+    color: #ad7a0a;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    bottom: 0;
+    display: flex;
+    
+}
+footer a{
+     text-transform: uppercase;
+    padding: 0 40px;
+    text-decoration: none;
+    text-decoration-color: red;
+    font-size: 20px;
+    text-align: center;
+   
+}
+div, .qw{
+    display: flex;
+    justify-content: center;
+    color: beige;
+    size: 20px;
+}
+.qwer{
+    font-size: 40px;
+    color: black;
+}
+.qw{
+    color:black;
+    font-size: 20px;
+    
+}
+footer{
+   background-color:white;
+}
